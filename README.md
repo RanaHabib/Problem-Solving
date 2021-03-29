@@ -1,2 +1,2 @@
 # Problem-Solving
-problem solving progress.
+problem solving practice.
